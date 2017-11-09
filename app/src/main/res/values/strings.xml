@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="orientation">Orientation</string>
+    <string name="order">Order</string>
+</resources>
